@@ -1,0 +1,5 @@
+Simple API Provider for Geo Data.
+
+Compatible with google appengine
+or any other WSGI python server.
+This file was modified by PyCharm 2.0.1 for binding GitHub repository
