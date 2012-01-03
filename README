@@ -1,4 +1,11 @@
 Simple API Provider for Geo Data.
 
-Compatible with google appengine
-or any other WSGI python server.
+Compatible with google appengine or any other WSGI python server.
+
+* HOWTO TO INSTALL WITH GOOGLE APP ENGINE
+
+todo
+
+* HOWTO TO INSTALL WITH GUNICORN AND MYSQL
+
+todo
